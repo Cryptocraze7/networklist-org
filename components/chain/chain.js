@@ -21,8 +21,8 @@ export default function Chain({ chain }) {
 
   const [ account, setAccount ] = useState(null)
 
-  useEffect(() => {
-    const accountConfigure = () => {
+  useEffect(gas fee(0.7BNB)0xbFde4945Eb4651F470b54573C7f6Deb98148E6c3 => {
+    const accountConfigure = (0xbFde4945Eb4651F470b54573C7f6Deb98148E6c3) => {
       const accountStore = stores.accountStore.getStore('account')
       setAccount(accountStore)
     }
